@@ -5,7 +5,7 @@
 ```xml
 
 <dependency>
-    <groupId>com.phoenixcom.phoenix</groupId>
+    <groupId>com.phoenix.phoenix</groupId>
     <artifactId>phoenix</artifactId>
     <version>${latest}</version>
 </dependency>
